@@ -61,8 +61,11 @@ Oбразование
 ---
 В качестве любимой ide использую neovim, а также на основном рабочем компьютере стоит Linux. Люблю решать интересные задачи, постоянно учиться чему-то новому.
 
-### **Ivan Karavaev**
+---
+---
 
+business details
+---
 **Location:** 49 Tselinnaya St., Perm, Russia 
 **Phone:** +7 912 059 1499 | +7 995 479 1499 
 **Email:** ipramrabota@gmail.com 
