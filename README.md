@@ -3,11 +3,11 @@
 #### Адрес
 Караваев Иван Александрович, Россия, г. Пермь, ул. Целинная 49
 #### Контакты
-Телефон: +79120591499, +79954791499
-Почта: ipramrabota@gmail.com
+- Телефон: +79120591499, +79954791499
+- Почта: ipramrabota@gmail.com
 #### Социальные сети
-[telegram](https://t.me/ip_ram)
-[github](https://github.com/ip-ram)
+- [telegram](https://t.me/ip_ram)
+- [github](https://github.com/ip-ram)
 
 Обо мне
 ---
@@ -66,10 +66,10 @@ Oбразование
 
 business details
 ---
-**Location:** 49 Tselinnaya St., Perm, Russia 
-**Phone:** +7 912 059 1499 | +7 995 479 1499 
-**Email:** ipramrabota@gmail.com 
-**Links:** [Telegram] | [GitHub]
+- Location 49 Tselinnaya St., Perm, Russia 
+- Phone: +7 912 059 1499 | +7 995 479 1499 
+- Email: ipramrabota@gmail.com 
+- Links: [Telegram] | [GitHub]
 
 Summary
 ---
