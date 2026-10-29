@@ -3,4 +3,6 @@
 
 Develop program on C++, Rust & Python. That`s all i wanna to say!
 
-my drawing lmao 
+
+
+In the topic my drawing lmao ;P 
